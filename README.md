@@ -5,17 +5,21 @@ import datetime   #library to getcurrent date and time
 
 import random   #library for generating random numbers
 
+
 username = input("Enter Name : ");   #getting user input
 
 print("Welcome "+ username +"!")     #Displaying user input
 
-a=random.random()               #.random is the attribute of random for generating random numbers
 
-print("Your one time ID : ",a)  #for printing random number
+a=random.random()                    #.random is the attribute of random for generating random numbers
 
-a=datetime.datetime.now()   #we get current date n time
+print("Your one time ID : ",a)       #for printing random number
 
-print("Date & Time :",a)   #for printing date and time
+
+a=datetime.datetime.now()            #we get current date n time
+
+print("Date & Time :",a)            #for printing date and time
+
 
 OUTPUT :
 ![image](https://user-images.githubusercontent.com/91654649/135436794-7ab53270-8dac-441f-aedc-6a1d94345c52.png)
