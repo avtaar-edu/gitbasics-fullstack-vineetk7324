@@ -1,4 +1,7 @@
-language : python
+Language : python
+
+OUTPUT :![image](https://user-images.githubusercontent.com/91654649/135436794-7ab53270-8dac-441f-aedc-6a1d94345c52.png)
+
 
 # :wave: The Basics of GitHub
 
